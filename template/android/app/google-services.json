@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50609546480",
+    "project_id": "devapp-655bd",
+    "storage_bucket": "devapp-655bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50609546480:android:16f25bdd7a0401c7768e35",
+        "android_client_info": {
+          "package_name": "com.reactnativeboilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50609546480-bs6astpc88mulhuetbtmtooe04v3rfm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbq6AsKmvQ2zi-vEWMLXD4RZ2M6X1N7Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50609546480-bs6astpc88mulhuetbtmtooe04v3rfm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

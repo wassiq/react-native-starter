@@ -1,0 +1,8 @@
+{
+  "name": "react-native-starter",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "https://github.com/wassiq/react-native-starter.git",
+  "author": "Wasiq Ali",
+  "license": "MIT"
+}
